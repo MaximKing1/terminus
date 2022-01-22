@@ -45,7 +45,7 @@
     "pug-static-loader": "2.0.0",
     "raw-loader": "4.0.2",
     "sass-loader": "^11.0.1",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "source-code-pro": "^2.30.2",
     "source-sans-pro": "3.6.0",
     "ssh2-streams": "^0.4.10",
